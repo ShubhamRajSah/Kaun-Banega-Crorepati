@@ -23,3 +23,6 @@ Built With
 Shubham – Aspiring Machine Learning Engineer 💻  
 Currently learning Python, linear algebra, and Git
 
+gmail: aloksah487@gmail.com
+instagram: https://www.instagram.com/_shuv_143?igsh=YXFmbzFxZmhibWtv
+faceboom: https://www.facebook.com/share/16kpB1mxPK/
